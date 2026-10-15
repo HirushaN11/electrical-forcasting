@@ -1,0 +1,7 @@
+Setting,Optimizer,Paper_R2,Replicated_R2_pct,MAE_kW,RMSE_kW,MAPE_pct
+Setting 1,SGD,-5%,90.5,52.79,68.94,4.54
+Setting 2,NAdam,14%,95.31,35.9,48.44,3.19
+Setting 3,Adadelta,46%,92.41,44.56,61.62,3.91
+Setting 4,Adagrad,49% (Ftrl),94.35,38.23,53.18,3.35
+Setting 5,RMSprop,93%,95.78,33.41,45.95,2.96
+Setting 6,Adam,95%,95.72,34.23,46.26,3.01
